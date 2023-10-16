@@ -1,1 +1,1 @@
-# cohort-analysis-with-power-bi
+# Customer Cohort and Rentention Analysis with Power BI
